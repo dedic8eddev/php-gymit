@@ -1,0 +1,18 @@
+app:
+    port: 3003
+    secret: "rdrs"
+    logFormat: "[:date[clf]] :method :url :status :response-time ms"
+db:
+    url: "mongodb://gymitdb:76dtHbaCMykD9Y@ds263358-a0.mlab.com:63358/gymit"
+    config: {"useNewUrlParser": true, "useFindAndModify": false, "useCreateIndex": true}
+readers:
+    baudRate: 19200
+    bitlen: 1
+    parity: "mark"
+    retryAttempts: 3
+    retryDelay: 1000
+    readerPort: "COM12"
+    portCount: 1
+    responseTimer: 2000
+    hangTimer: 3000
+apikey: "cf88928eb8234624bc45dee384fb3ed4"

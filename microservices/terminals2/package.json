@@ -1,0 +1,34 @@
+{
+  "name": "terminals",
+  "version": "1.0.0",
+  "description": "Terminal service for Gymit",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Dočekal",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^2.1.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.2.4",
+    "crc": "^3.8.0",
+    "crc-16": "^0.1.3",
+    "crc-full": "^1.1.0",
+    "dayjs": "^1.8.19",
+    "express": "^4.17.1",
+    "express.oi": "0.0.21",
+    "js-yaml": "^3.13.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.9",
+    "morgan": "^1.9.1",
+    "node-crc16-js": "^1.0.0",
+    "polycrc": "^0.1.0",
+    "socket.io": "^2.3.0",
+    "winston": "^3.2.1",
+    "wretch": "^1.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}

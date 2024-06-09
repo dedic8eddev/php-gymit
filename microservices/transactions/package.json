@@ -1,0 +1,28 @@
+{
+  "name": "transactions",
+  "version": "1.0.0",
+  "description": "Transaction service for Gymit",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Dočekal",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "config": "^3.2.5",
+    "dayjs": "^1.8.20",
+    "escpos": "git+https://github.com/song940/node-escpos.git",
+    "express": "^4.17.1",
+    "js-yaml": "^3.13.1",
+    "mongoose": "^5.8.11",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2",
+    "serialport": "^8.0.7",
+    "winston": "^3.2.1",
+    "wretch": "^1.7.1"
+  },
+  "devDependencies": {
+    "eslint": "^6.8.0"
+  }
+}

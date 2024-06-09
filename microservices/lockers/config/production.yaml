@@ -1,0 +1,19 @@
+app:
+    port: 3004
+    secret: "lckrs"
+    logFormat: "[:date[clf]] :method :url :status :response-time ms"
+db:
+    url: "mongodb://gymitdb:76dtHbaCMykD9Y@ds263358-a0.mlab.com:63358/gymit"
+    config: {"useNewUrlParser": true, "useFindAndModify": false, "useCreateIndex": true}
+lockers:
+    baudRate: 19200
+    bitrate: 1
+    parity: "mark"
+    retryAttempts: 3
+    retryDelay: 1200
+    malePort: "COM10"
+    femalePort: "COM11"
+    portCount: 2
+    responseTimer: 2000
+    hangTimer: 3000
+apikey: "c4930afc4fa5828f469016b133e0d53294b370ab"

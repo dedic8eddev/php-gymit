@@ -1,0 +1,162 @@
+{
+    "development":{
+        "config.ci-sample-config.php":{
+            "base_url": "'http://localhost:8000/'",
+            "encryption_key": "'0ycK8drJLfWUHuLWf0vQY4RddbpsrmeA'"
+        },
+        "database.ci-sample-config.php":{
+            "hostname": "'localhost'",
+            "username": "'xxx'",
+            "password": "'xxx'",
+            "database": "'xxx'"
+        },
+        "mongo_db.ci-sample-config.php":{
+            "hostname": "'ds151817.mlab.com'",
+            "port": 51817,
+            "username": "'dev'",
+            "password": "'gymit2019'",
+            "database": "'gymit'"
+        },
+        "api_config.ci-sample-config.php":{
+            "socket_io": "'http://localhost:3333/socket.io/socket.io.js'",
+            "transactions": "'localhost:3001'",
+            "depot": "'localhost:3002'",
+            "lockers": "'localhost:3004'",
+            "lockers_api_key": "'xxx'",
+            "readers": "'localhost:3003'",
+            "readers_api_key": "'xx'",
+            "terminal1": "'localhost:3005'",
+            "terminal2": "'localhost:3006'",
+            "default_database":"'gymit'",
+            "default_gym_db":"'gymit'",
+            "default_gym_id":"'5d3038dc86130f5d5965a25e'",
+            "default_gym_name":"'Ústí nad Labem'"
+        },
+        "phinx.ci-sample-config.php":{
+            "default_database": "'development'",
+            "name": "'xxx'",
+            "user": "'xxx'",
+            "pass": "'xxx'"
+        }
+    },
+    "bold":{
+        "config.ci-sample-config.php":{
+            "base_url": "'https://www.gymit.bold-interactive.com/'",
+            "encryption_key": "'4QqGtLNJYbaiw8pQg3hVl0lifrzRkXuo'"
+        },
+        "database.ci-sample-config.php":{
+            "hostname": "'localhost'",
+            "username": "'xxx'",
+            "password": "'xxx'",
+            "database": "'xxx'"
+        },
+        "mongo_db.ci-sample-config.php":{
+            "hostname": "'localhost'",
+            "port": 51817,
+            "username": "'xxx'",
+            "password": "'xxx'",
+            "database": "'xxx'"
+        },
+        "api_config.ci-sample-config.php":{
+            "socket_io": "'xxx'",
+            "transactions": "'xxx'",
+            "depot": "'xxx'",
+            "lockers": "'xxx'",
+            "lockers_api_key": "'xxx'",
+            "readers": "'xxx'",
+            "readers_api_key": "'xx'",
+            "terminal1": "'localhost:3005'",
+            "terminal2": "'localhost:3006'",
+            "default_database":"''",
+            "default_gym_db":"''",
+            "default_gym_id":"''",
+            "default_gym_name":"''"
+        },
+        "phinx.ci-sample-config.php":{
+            "default_database": "'testing'",
+            "name": "'xxx'",
+            "user": "'xxx'",
+            "pass": "'xxx'"
+        }
+    },
+    "dev":{
+        "config.ci-sample-config.php":{
+            "base_url": "'https://www.dev.gymit.cz/'",
+            "encryption_key": "'4QqGtLNJYbaiw8pQg3hVl0lifrzRkXuo'"
+        },
+        "database.ci-sample-config.php":{
+            "hostname": "'localhost'",
+            "username": "'xxx'",
+            "password": "'xxx'",
+            "database": "'xxx'"
+        },
+        "mongo_db.ci-sample-config.php":{
+            "hostname": "'localhost'",
+            "port": 51817,
+            "username": "'xxx'",
+            "password": "'xxx'",
+            "database": "'xxx'"
+        },
+        "api_config.ci-sample-config.php":{
+            "socket_io": "'xxx'",
+            "transactions": "'xxx'",
+            "depot": "'xxx'",
+            "lockers": "'xxx'",
+            "lockers_api_key": "'xxx'",
+            "readers": "'xxx'",
+            "readers_api_key": "'xx'",
+            "terminal1": "'localhost:3005'",
+            "terminal2": "'localhost:3006'",
+            "default_database":"''",
+            "default_gym_db":"''",
+            "default_gym_id":"''",
+            "default_gym_name":"''"
+        },
+        "phinx.ci-sample-config.php":{
+            "default_database": "'testing'",
+            "name": "'xxx'",
+            "user": "'xxx'",
+            "pass": "'xxx'"
+        }
+    },
+    "production":{
+        "config.ci-sample-config.php":{
+            "base_url": "'https://www.gymit.cz/'",
+            "encryption_key": "'IMDwxqtt3Jnbujp2C9WugB3TJ9Lr3jWt'"
+        },
+        "database.ci-sample-config.php":{
+            "hostname": "''",
+            "username": "''",
+            "password": "''",
+            "database": "''"
+        },
+        "mongo_db.ci-sample-config.php":{
+            "hostname": "'localhost'",
+            "port": 51817,
+            "username": "'xxx'",
+            "password": "'xxx'",
+            "database": "'xxx'"
+        },
+        "api_config.ci-sample-config.php":{
+            "socket_io": "'xxx'",
+            "transactions": "'xxx'",
+            "depot": "'xxx'",
+            "lockers": "'xxx'",
+            "lockers_api_key": "'xxx'",
+            "readers": "'xxx'",
+            "readers_api_key": "'xx'",
+            "terminal1": "'localhost:3005'",
+            "terminal2": "'localhost:3006'",
+            "default_database":"''",
+            "default_gym_db":"''",
+            "default_gym_id":"''",
+            "default_gym_name":"''"
+        },
+        "phinx.ci-sample-config.php":{
+            "default_database": "'production'",
+            "name": "'xxx'",
+            "user": "'xxx'",
+            "pass": "'xxx'"
+        }
+    }
+}

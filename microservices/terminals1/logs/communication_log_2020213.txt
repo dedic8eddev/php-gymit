@@ -1,0 +1,50 @@
+Thu Feb 13 2020 10:59:57 GMT+0100 (Central European Standard Time) | --> 0201303330303030303030313039303031313230030651
+Thu Feb 13 2020 11:01:24 GMT+0100 (Central European Standard Time) | --> 0201303330303030303030313039303031313230030651
+Thu Feb 13 2020 11:01:24 GMT+0100 (Central European Standard Time) | <-- 0601
+Thu Feb 13 2020 11:01:24 GMT+0100 (Central European Standard Time) | <-- 02003034303030303030303135303139303132303003030b
+Thu Feb 13 2020 11:01:24 GMT+0100 (Central European Standard Time) | --> 0600
+Thu Feb 13 2020 11:01:24 GMT+0100 (Central European Standard Time) | <-- 04
+
+
+Thu Feb 13 2020 11:08:26 GMT+0100 (Central European Standard Time) | --> 0201303330303030303030313039303031313230030651
+Thu Feb 13 2020 11:08:26 GMT+0100 (Central European Standard Time) | <-- 0601
+Thu Feb 13 2020 11:08:26 GMT+0100 (Central European Standard Time) | <-- 02003034303030303030303135303139303132303003030b
+Thu Feb 13 2020 11:08:26 GMT+0100 (Central European Standard Time) | --> 0600
+Thu Feb 13 2020 11:08:26 GMT+0100 (Central European Standard Time) | <-- 04
+
+
+Thu Feb 13 2020 11:10:08 GMT+0100 (Central European Standard Time) | --> 0201303330303030303030313039303031313230030651
+Thu Feb 13 2020 11:10:08 GMT+0100 (Central European Standard Time) | <-- 0601
+Thu Feb 13 2020 11:10:08 GMT+0100 (Central European Standard Time) | <-- 02003034303030303030303135303139303132303003030b
+Thu Feb 13 2020 11:10:08 GMT+0100 (Central European Standard Time) | --> 0600
+Thu Feb 13 2020 11:10:08 GMT+0100 (Central European Standard Time) | <-- 04
+
+
+Thu Feb 13 2020 11:10:31 GMT+0100 (Central European Standard Time) | --> 0201303330303030303030313039303031313230030651
+Thu Feb 13 2020 11:10:31 GMT+0100 (Central European Standard Time) | <-- 0601
+Thu Feb 13 2020 11:10:31 GMT+0100 (Central European Standard Time) | <-- 02003034303030303030303135303139303132303003030b
+Thu Feb 13 2020 11:10:31 GMT+0100 (Central European Standard Time) | --> 0600
+Thu Feb 13 2020 11:10:31 GMT+0100 (Central European Standard Time) | <-- 04
+
+
+Thu Feb 13 2020 11:13:47 GMT+0100 (Central European Standard Time) | --> 0201303330303030303030313039303031313230030651
+Thu Feb 13 2020 11:13:51 GMT+0100 (Central European Standard Time) | <-- 0601
+Thu Feb 13 2020 11:13:51 GMT+0100 (Central European Standard Time) | <-- 02003034303030303030303135303139303132303003030b
+Thu Feb 13 2020 11:13:51 GMT+0100 (Central European Standard Time) | --> 0600
+Thu Feb 13 2020 11:13:51 GMT+0100 (Central European Standard Time) | <-- 04
+
+
+Thu Feb 13 2020 11:19:55 GMT+0100 (Central European Standard Time) | --> 0201303330303030303030313039303031313230030651
+Thu Feb 13 2020 11:19:59 GMT+0100 (Central European Standard Time) | <-- 0601
+Thu Feb 13 2020 11:19:59 GMT+0100 (Central European Standard Time) | <-- 02003034303030303030303135303139303132303003030b
+Thu Feb 13 2020 11:19:59 GMT+0100 (Central European Standard Time) | --> 0600
+Thu Feb 13 2020 11:19:59 GMT+0100 (Central European Standard Time) | <-- 04
+
+
+Thu Feb 13 2020 11:20:28 GMT+0100 (Central European Standard Time) | --> 0201303330303030303030313039303031313230030651
+Thu Feb 13 2020 11:20:28 GMT+0100 (Central European Standard Time) | <-- 0601
+Thu Feb 13 2020 11:20:28 GMT+0100 (Central European Standard Time) | <-- 02003034303030303030303135303139303132303003030b
+Thu Feb 13 2020 11:20:28 GMT+0100 (Central European Standard Time) | --> 0600
+Thu Feb 13 2020 11:20:28 GMT+0100 (Central European Standard Time) | <-- 04
+
+

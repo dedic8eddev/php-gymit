@@ -1,0 +1,14 @@
+app:
+    port: 3005
+    secret: "trmnls"
+    logFormat: "[:date[clf]] :method :url :status :response-time ms"
+db:
+    url: "mongodb://gymitdb:76dtHbaCMykD9Y@ds263358-a0.mlab.com:63358/gymit"
+    config: {"useNewUrlParser": true, "useFindAndModify": false, "useCreateIndex": true}
+terminals:
+    host: '10.0.0.96'
+    port: 1818
+    pid: "u2533198"
+    tid: "25303198"
+    mid: "35150501"
+apikey: "J2ASaJ5wbQn6qD53ZrpA"

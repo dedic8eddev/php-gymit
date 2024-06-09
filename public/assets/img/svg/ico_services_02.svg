@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="icons" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 38.5 51.2" style="enable-background:new 0 0 38.5 51.2;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:none;stroke:#000000;stroke-linejoin:round;stroke-miterlimit:10;}
+</style>
+<g id="clipboard">
+	<g>
+		<path class="st0" d="M27.2,7h8.4c1.1,0,2,0.9,2,2v39.2c0,1.1-0.9,2-2,2H2.8c-1.1,0-2-0.9-2-2V9c0-1.1,0.9-2,2-2h8.4"/>
+		<line class="st0" x1="15" y1="21" x2="31.5" y2="21"/>
+		<line class="st0" x1="15" y1="30" x2="31.5" y2="30"/>
+		<line class="st0" x1="15" y1="39" x2="31.5" y2="39"/>
+		<line class="st0" x1="7" y1="21" x2="11" y2="21"/>
+		<line class="st0" x1="7" y1="30" x2="11" y2="30"/>
+		<line class="st0" x1="7" y1="39" x2="11" y2="39"/>
+		<path class="st0" d="M27.2,3v8h-16V3h4.5c0.7-1.2,2-2,3.5-2s2.8,0.8,3.5,2H27.2z"/>
+	</g>
+</g>
+</svg>

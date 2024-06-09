@@ -1,0 +1,27 @@
+.tabulator-row.canceled-red:after {
+  position: absolute;
+  left: 1%;
+  top: 50%;
+  height: 1px;
+  background: #c00;
+  content: "";
+  width: 98%;
+  display: block;
+}
+.tabulator-row.canceled {
+  color:gray;
+}
+
+.tabulator-row.canceled-green:after {
+  position: absolute;
+  left: 1%;
+  top: 50%;
+  height: 1px;
+  background: rgb(10, 156, 5);
+  content: "";
+  width: 98%;
+  display: block;
+}
+.tabulator-row.canceled {
+  color:gray;
+}

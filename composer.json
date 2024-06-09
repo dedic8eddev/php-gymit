@@ -1,0 +1,31 @@
+{
+    "name": "violet/gymit",
+    "config": {
+        "platform": {
+            "php" : "7.1.2"
+        }
+    },
+    "type": "project",
+    "authors": [
+        {
+            "name": "Jan Dočekal",
+            "email": "jan.docekal@bold-interactive.com"
+        }
+    ],
+    "require": {
+        "robmorgan/phinx": "dev-master",
+        "phpoffice/phpspreadsheet": "^1.9",
+        "vlucas/phpdotenv": "^4.0",
+        "mpdf/mpdf": "^8.0",
+        "mike42/escpos-php": "^3.0"
+    },
+    "require-dev": {
+        "stef686/codeigniter-deployer": "1.0.x@dev"
+    },
+    "scripts": {
+        "phinx": "vendor/bin/phinx",
+        "migrate": "vendor/bin/phinx migrate -c application/config/phinx.php",
+        "seed-create": "vendor/bin/phinx seed:create -c application/config/phinx.php",
+        "seed-run": "vendor/bin/phinx seed:run -c application/config/phinx.php"
+    }
+}

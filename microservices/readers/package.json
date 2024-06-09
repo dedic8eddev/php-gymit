@@ -1,0 +1,28 @@
+{
+  "name": "readers",
+  "version": "1.0.0",
+  "description": "Reader service for Gymit",
+  "main": "service.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jan Dočekal",
+  "license": "ISC",
+  "dependencies": {
+    "agenda": "^2.1.0",
+    "body-parser": "^1.19.0",
+    "config": "^3.2.4",
+    "dayjs": "^1.8.16",
+    "express": "^4.17.1",
+    "js-yaml": "^3.13.1",
+    "moment": "^2.24.0",
+    "mongoose": "^5.6.9",
+    "morgan": "^1.9.1",
+    "serialport": "^8.0.5",
+    "winston": "^3.2.1",
+    "wretch": "^1.5.4"
+  },
+  "devDependencies": {
+    "eslint": "^6.1.0"
+  }
+}

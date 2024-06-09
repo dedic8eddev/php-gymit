@@ -1,0 +1,23 @@
+<html>
+<head>
+
+</head>
+<body>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+    <script src="http://localhost:3333/socket.io/socket.io.js"></script>
+    <script type="text/javascript">
+        $(document).ready(function(){
+            const socket = io('http://localhost:3333');
+            socket.emit("payment:request", {amount: 150.00,transactionNumber: "0119000001"});
+
+            socket.on("status", (data) => {
+                $("body").append("<p>"+data+"</p>");
+            });
+
+            socket.on("errorMessage", (data) => {
+                $("body").append("<p style='color:red;'>"+data+"</p>");
+            });
+        });
+    </script>
+</body>
+</html>

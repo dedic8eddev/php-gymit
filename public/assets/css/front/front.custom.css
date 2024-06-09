@@ -1,0 +1,18 @@
+.login-errors{
+    color: red;
+}
+
+input:disabled{
+    background: #e6e6e6;
+}
+
+.text-center{
+    text-align: center;
+}
+.muted{
+    opacity: .5;
+}
+
+.entry-content{
+    word-break: break-all;
+}

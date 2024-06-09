@@ -1,0 +1,20 @@
+.svg-icon svg {
+  width:30px;
+  height:30px;
+}
+
+.svg-icon  svg rect, .svg-icon  svg path {
+    fill: none;
+    stroke: #000;
+    stroke-linejoin: round;
+    stroke-width: 2px;
+    stroke-miterlimit: 10;
+}
+
+.dropdown-toggle .glyphicon { margin-left: 20px; margin-right: -40px }
+.dropdown-menu { min-width:calc(100% - 10px);; }
+.dropdown-menu img, .dropdown-toggle img { width:30px; }
+.dropdown-menu>li { display:block !important; text-align:center !important; height:100%; padding:5px 0px; }
+.dropdown-menu>li:hover { background: #d9c37c; cursor:pointer; }
+.btn.btn-icon { height:38px; min-width:100%; border:1px solid #e1e8ee; color:#e1e8ee; }
+.btn.btn-icon.svg-icon svg { height:25px; }

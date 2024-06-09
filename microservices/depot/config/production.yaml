@@ -1,0 +1,7 @@
+app:
+    port: 3002
+    secret: "dpt"
+    logFormat: "[:date[clf]] :method :url :status :response-time ms"
+db:
+    url: "mongodb://gymitdb:76dtHbaCMykD9Y@ds263358-a0.mlab.com:63358/gymit"
+    config: {"useNewUrlParser": true, "useFindAndModify": false, "useCreateIndex": true}

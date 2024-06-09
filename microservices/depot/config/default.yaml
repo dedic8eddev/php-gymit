@@ -1,0 +1,7 @@
+app:
+    port: 3002
+    secret: "efgh"
+    logFormat: "[:date[clf]] :method :url :status :response-time ms"
+db:
+    url: "mongodb://dev:gymit2019@ds151817.mlab.com:51817/gymit"
+    config: {"useNewUrlParser": true, "useFindAndModify": false, "useCreateIndex": true}

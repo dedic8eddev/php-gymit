@@ -1,0 +1,30 @@
+{
+  "name": "gymit",
+  "version": "1.0.0",
+  "description": "Application for managing gyms.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://jandocekal@bitbucket.org/interactivebold/gymit.git"
+  },
+  "author": "Jan Dočekal",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/interactivebold/gymit#readme",
+  "devDependencies": {
+    "electron-rebuild": "^1.8.8",
+    "eslint": "^6.8.0"
+  },
+  "dependencies": {
+    "dayjs": "^1.8.19",
+    "express": "^4.17.1",
+    "mongoose": "^5.8.6",
+    "morgan": "^1.9.1",
+    "node": "^13.5.0",
+    "nodemon": "^2.0.2",
+    "serialport": "^8.0.6",
+    "winston": "^3.2.1"
+  }
+}
